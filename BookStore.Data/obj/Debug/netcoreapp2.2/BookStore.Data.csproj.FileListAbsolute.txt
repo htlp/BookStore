@@ -1,0 +1,9 @@
+C:\Users\htl\source\repos\BookStore\BookStore.Data\bin\Debug\netcoreapp2.2\BookStore.Data.deps.json
+C:\Users\htl\source\repos\BookStore\BookStore.Data\bin\Debug\netcoreapp2.2\BookStore.Data.dll
+C:\Users\htl\source\repos\BookStore\BookStore.Data\bin\Debug\netcoreapp2.2\BookStore.Data.pdb
+C:\Users\htl\source\repos\BookStore\BookStore.Data\obj\Debug\netcoreapp2.2\BookStore.Data.csprojAssemblyReference.cache
+C:\Users\htl\source\repos\BookStore\BookStore.Data\obj\Debug\netcoreapp2.2\BookStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\htl\source\repos\BookStore\BookStore.Data\obj\Debug\netcoreapp2.2\BookStore.Data.AssemblyInfoInputs.cache
+C:\Users\htl\source\repos\BookStore\BookStore.Data\obj\Debug\netcoreapp2.2\BookStore.Data.AssemblyInfo.cs
+C:\Users\htl\source\repos\BookStore\BookStore.Data\obj\Debug\netcoreapp2.2\BookStore.Data.dll
+C:\Users\htl\source\repos\BookStore\BookStore.Data\obj\Debug\netcoreapp2.2\BookStore.Data.pdb

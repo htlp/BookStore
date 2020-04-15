@@ -1,0 +1,10 @@
+<p>我是一个books组件!</p>
+<button (click)="login()">login</button>
+<button (click)="getBooks()">getBooks</button>
+<button (click)="createBooks()">createBooks</button>
+<hr>
+<br>
+
+<ul>
+    <li *ngFor="let item of list; let key = index;">{{key}}--------{{item.Id+item.Name}}<a (click)="delBook(item.Id)">删除</a></li>
+</ul>
